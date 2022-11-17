@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storybooks African Languages</title>
-    <description>Storybooks African Languages is designed specifically for teachers, parents, and community members. It makes 40 stories from the African Storybook available with text and audio in English and French as well as a wide variety of African languages.
+    <description>Storybooks African Languages is a free educational resource that promotes literacy and language learning. Part of the Global Storybooks project, it makes 40 stories from the African Storybook available in a wide variety of African languages as well as English and French. Toggle for dual language texts, many with audio!
 </description>
     <link>https://global-asp.github.io//storybooks-african-languages/</link>
     <atom:link href="https://global-asp.github.io//storybooks-african-languages/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Nov 2022 18:13:50 -0800</pubDate>
-    <lastBuildDate>Wed, 16 Nov 2022 18:13:50 -0800</lastBuildDate>
+    <pubDate>Thu, 17 Nov 2022 12:50:52 -0800</pubDate>
+    <lastBuildDate>Thu, 17 Nov 2022 12:50:52 -0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
   </channel>
